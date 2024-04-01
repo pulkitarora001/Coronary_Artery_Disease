@@ -2,11 +2,8 @@ fastapi
 uvicorn
 pandas
 numpy
-matplotlib
 python-multipart
-seaborn
 shap
-xgboost
 scikit-learn
 lightgbm
 catboost
