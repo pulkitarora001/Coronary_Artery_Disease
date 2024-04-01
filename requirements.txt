@@ -1,9 +1,12 @@
 fastapi
 uvicorn
+pandas
 numpy
-tensorflow
-opencv-python-headless
+matplotlib
 python-multipart
-keras
-catboost
+seaborn
 shap
+xgboost
+scikit-learn
+lightgbm
+catboost
